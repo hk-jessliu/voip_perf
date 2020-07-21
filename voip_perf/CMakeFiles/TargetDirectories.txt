@@ -1,0 +1,3 @@
+/root/voip_perf/CMakeFiles/rebuild_cache.dir
+/root/voip_perf/CMakeFiles/voip_perf.dir
+/root/voip_perf/CMakeFiles/edit_cache.dir
